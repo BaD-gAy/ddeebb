@@ -1,0 +1,3 @@
+﻿  калькулятор.cpp
+C:\Users\Ksssmda\source\repos\калькулятор\калькулятор.cpp(25,28): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  калькулятор.vcxproj -> C:\Users\Ksssmda\source\repos\калькулятор\x64\Debug\калькулятор.exe
